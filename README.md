@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.png" alt="Header image" width="100%"/>
+  <img src="https://raw.githubusercontent.com/sebin-gg/sebin-gg/master/banner.png" alt="Header image" width="100%"/>
 </div>
 
 # Hi, I'm Sebin Mathew 👋
@@ -65,7 +65,7 @@ CGPA: 8.6
 
 ### Connect
 
-**Email:** [sebinmathew543@gmail.com](mailto:sebinmathew543@gmail.com)
-**LinkedIn:** [https://linkedin.com/in/sebin-gg](https://linkedin.com/in/sebin-gg)
-**GitHub:** [https://github.com/sebin-gg](https://github.com/sebin-gg)
-**Twitter:** [@M13568Sebin](https://twitter.com/M13568Sebin)
+- **Email:** [sebinmathew543@gmail.com](mailto:sebinmathew543@gmail.com)
+- **LinkedIn:** [https://linkedin.com/in/sebin-gg](https://linkedin.com/in/sebin-gg)
+- **GitHub:** [https://github.com/sebin-gg](https://github.com/sebin-gg)
+- **Twitter:** [@M13568Sebin](https://twitter.com/M13568Sebin)
