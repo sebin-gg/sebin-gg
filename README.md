@@ -47,7 +47,7 @@ Software developer passionate in Cybersecurity. Interested in cloud, backend sys
 - Typing too fast results in errors and angry turtle ASCII feedback. 
 - Promotes 'patience-oriented programming' with haikus, delays, and sarcastic praise.
 
-#### [Event Tracker](https://github.com/sebin-gg/foccestask)
+#### [Event Tracker](https://github.com/sebin-gg/Event-Tracker)
 *React • FastAPI • Tailwind CSS*
 - Full-stack event management application to list, add, and search events.
 - Features a responsive UI with a dark mode toggle and detailed event modals.
