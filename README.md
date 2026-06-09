@@ -47,25 +47,25 @@ Software developer passionate in Cybersecurity. Interested in cloud, backend sys
 - Typing too fast results in errors and angry turtle ASCII feedback. 
 - Promotes 'patience-oriented programming' with haikus, delays, and sarcastic praise.
 
-#### [Aegis](https://github.com/sebin-gg/Aegis)
-*TypeScript*
-- [Add Aegis bullet point 1]
-- [Add Aegis bullet point 2]
-- [Add Aegis bullet point 3]
+#### [Event Tracker (foccestask)](https://github.com/sebin-gg/foccestask)
+*React • FastAPI • Tailwind CSS*
+- Full-stack event management application to list, add, and search events.
+- Features a responsive UI with a dark mode toggle and detailed event modals.
+- Built originally for the FOCES Volunteer Project 2025-26.
 
 <hr/>
 
 ### Education
 
-**[Your Degree Here] — [Your Major Here]**
-[Your College/University Name]
-[Your CGPA/Grade]
+**Bachelor of Technology — Computer Science & Engineering**
+College of Engineering Chengannur
+CGPA: 8.6
 
 <hr/>
 
 ### Connect
 
-**Email:** [Your Email Address]
-**LinkedIn:** [Your LinkedIn URL]
+**Email:** [sebinmathew543@gmail.com](mailto:sebinmathew543@gmail.com)
+**LinkedIn:** [https://linkedin.com/in/sebin-gg](https://linkedin.com/in/sebin-gg)
 **GitHub:** [https://github.com/sebin-gg](https://github.com/sebin-gg)
 **Twitter:** [@M13568Sebin](https://twitter.com/M13568Sebin)
