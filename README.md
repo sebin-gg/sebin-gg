@@ -10,7 +10,7 @@
 
 ### About
 
-Software developer passionate in Cybersecurity. Interested in cloud, backend systems, and automation. Contributor to open-source projects.
+Software developer passionate in Cybersecurity. Interested in cloud, backend systems, and automation.
 
 **I care about:**
 - Writing clean, modular code
@@ -47,7 +47,7 @@ Software developer passionate in Cybersecurity. Interested in cloud, backend sys
 - Typing too fast results in errors and angry turtle ASCII feedback. 
 - Promotes 'patience-oriented programming' with haikus, delays, and sarcastic praise.
 
-#### [Event Tracker (foccestask)](https://github.com/sebin-gg/foccestask)
+#### [Event Tracker](https://github.com/sebin-gg/foccestask)
 *React • FastAPI • Tailwind CSS*
 - Full-stack event management application to list, add, and search events.
 - Features a responsive UI with a dark mode toggle and detailed event modals.
