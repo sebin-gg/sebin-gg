@@ -23,35 +23,38 @@ Software developer passionate in Cybersecurity. Interested in cloud, backend sys
 ### Tech Stack
 
 **Languages**
-`JavaScript` • `TypeScript` • `Python` • `HTML/CSS`
+JavaScript • TypeScript • Python • HTML/CSS
 
 **Frontend**
-`React.js` • `Responsive Design`
+React.js • Responsive Design
 
 **Backend**
-`REST APIs` • `Authentication` • `CRUD Systems` • `Node.js`
+REST APIs • Authentication • CRUD Systems • Node.js
 
 **Databases**
-`SQL Concepts` • `Relational Design`
+SQL Concepts • Relational Design
 
 **Tools**
-`Git` • `GitHub` • `Debugging` • `Version Control`
+Git • GitHub • Debugging • Version Control
 
 <hr/>
 
 ### Selected Projects
 
+#### [brevity-prompt](https://github.com/sebin-gg/brevity-prompt)
+*JavaScript • Chrome Extension*
+- Browser extension for AI prompt compression across ChatGPT, Claude, and Gemini.
+- Reduces token consumption and latency by stripping redundant context.
+
 #### [slowlang](https://github.com/sebin-gg/slowlang)
 *Python*
-- TortoiseLang introduces a language that enforces slow typing. 
-- Typing too fast results in errors and angry turtle ASCII feedback. 
-- Promotes 'patience-oriented programming' with haikus, delays, and sarcastic praise.
+- TortoiseLang enforces intentional, patience-oriented programming with rate-limited typing.
+- Provides interactive ASCII feedback, haikus, and delay throttling.
 
 #### [Event Tracker](https://github.com/sebin-gg/Event-Tracker)
 *React • FastAPI • Tailwind CSS*
-- Full-stack event management application to list, add, and search events.
-- Features a responsive UI with a dark mode toggle and detailed event modals.
-- Built originally for the FOCES Volunteer Project 2025-26.
+- Full-stack event management application with search, filtering, and event modals.
+- Features responsive UI, dark mode toggle, and REST API backend.
 
 <hr/>
 
@@ -65,7 +68,6 @@ CGPA: 8.6
 
 ### Connect
 
-- **Email:** [REDACTED](mailto:REDACTED)
 - **LinkedIn:** [https://linkedin.com/in/sebin-gg](https://linkedin.com/in/sebin-gg)
 - **GitHub:** [https://github.com/sebin-gg](https://github.com/sebin-gg)
-- **Twitter:** [@M13568Sebin](https://twitter.com/M13568Sebin)
+- **Twitter / X:** [https://twitter.com/M13568Sebin](https://twitter.com/M13568Sebin)
