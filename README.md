@@ -4,21 +4,14 @@
 
 # Hi, I'm Sebin Mathew 👋
 
-**Software Developer • Cybersecurity • Cloud & Backend Systems • Automation**
+I build Chrome extensions, full-stack apps, security tooling, and exam portals. Backend-leaning developer who keeps things private by default: no telemetry, modular design, and cryptographic verification where it matters.
+
+- 🎓 B.Tech in Computer Science & Engineering, College of Engineering Chengannur (CGPA 8.6)
+- ⚡ Currently working on token optimization pipelines, API gateways, and system telemetry
 
 <hr/>
 
-### 💡 About Me
-
-Software developer focused on backend architectures, automation, and cybersecurity. Building high-performance, client-side first, and privacy-centric software.
-
-- 🛡️ **Core Philosophy:** Modular design, zero-telemetry privacy, and verified cryptographic workflows.
-- ⚡ **Focus Areas:** Token optimization pipelines, API gateways, system telemetry, and distributed architectures.
-- 🎓 **Education:** B.Tech in Computer Science & Engineering • College of Engineering Chengannur (CGPA: 8.6)
-
-<hr/>
-
-### 🛠️ Tech Stack & Tooling
+### 🛠️ Tech stack & tooling
 
 | Domain | Technologies |
 | :--- | :--- |
@@ -30,30 +23,33 @@ Software developer focused on backend architectures, automation, and cybersecuri
 
 <hr/>
 
-### 🚀 Featured Projects
+### 🚀 Featured projects
 
-#### 1. [brevity-prompt](https://github.com/sebin-gg/brevity-prompt)
-> **Client-Side AI Prompt Compression Extension** • JavaScript • Chrome Extension • Privacy-First
-- In-browser token compression pipeline reducing API token consumption by 40-65% across ChatGPT, Claude, and Gemini.
-- Operates 100% client-side with zero telemetry and non-destructive code block shielding.
-- 📖 [Architecture & Technical Design](https://github.com/sebin-gg/brevity-prompt/blob/main/ARCHITECTURE.md)
+#### [brevity-prompt](https://github.com/sebin-gg/brevity-prompt)
+> Chrome extension • JavaScript • Privacy-first
 
-#### 2. [slowlang](https://github.com/sebin-gg/slowlang)
-> **Patience-Oriented Programming Language & Runtime** • Python • AST & Telemetry • Interactive IDE
-- Language runtime and IDE that monitors keystroke velocity in real time to throttle hyper-fast typing.
-- Features dynamic ASCII rage feedback, sarcastic error handling, and cadence-driven execution flow.
-- 📖 [Runtime Architecture & State Machine](https://github.com/sebin-gg/slowlang/blob/main/ARCHITECTURE.md)
+Compresses prompts in-browser before they hit the API, cutting token use by 40-65% across ChatGPT, Claude, and Gemini. Runs entirely client-side and leaves code blocks untouched.
 
-#### 3. [Event Tracker](https://github.com/sebin-gg/Event-Tracker)
-> **Full-Stack Event Management & Analytics Platform** • FastAPI • React • Tailwind CSS
-- Decoupled full-stack platform featuring schema-first Pydantic validation, responsive UI, search indexing, and SQLite persistence.
-- Built originally for FOCES Volunteer Project with modular REST architecture.
-- 📖 [System Architecture & Specifications](https://github.com/sebin-gg/Event-Tracker/blob/main/ARCHITECTURE.md)
+📖 [Architecture & technical design](https://github.com/sebin-gg/brevity-prompt/blob/main/ARCHITECTURE.md)
+
+#### [slowlang](https://github.com/sebin-gg/slowlang)
+> Toy language & runtime • Python • AST & telemetry
+
+A programming language and IDE that throttles execution when you type too fast. Comes with sarcastic error handling and dynamic ASCII rage feedback.
+
+📖 [Runtime architecture & state machine](https://github.com/sebin-gg/slowlang/blob/main/ARCHITECTURE.md)
+
+#### [Event Tracker](https://github.com/sebin-gg/Event-Tracker)
+> Full-stack event platform • FastAPI • React • Tailwind CSS
+
+Event management and analytics with Pydantic schema validation, search indexing, and SQLite persistence. Built as a FOCES volunteer project.
+
+📖 [System architecture & specs](https://github.com/sebin-gg/Event-Tracker/blob/main/ARCHITECTURE.md)
 
 <hr/>
 
-### 🌐 Connect & Network
+### 🌐 Connect
 
-- **LinkedIn:** [https://linkedin.com/in/sebin-gg](https://linkedin.com/in/sebin-gg)
-- **GitHub:** [https://github.com/sebin-gg](https://github.com/sebin-gg)
-- **Twitter / X:** [https://twitter.com/M13568Sebin](https://twitter.com/M13568Sebin)
+- [LinkedIn](https://linkedin.com/in/sebin-gg)
+- [X](https://twitter.com/M13568Sebin)
+- [GitHub](https://github.com/sebin-gg)
