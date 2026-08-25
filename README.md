@@ -26,25 +26,40 @@ I build Chrome extensions, full-stack apps, security tooling, and exam portals. 
 ### 🚀 Featured projects
 
 #### [brevity-prompt](https://github.com/sebin-gg/brevity-prompt)
-> Chrome extension • JavaScript • Privacy-first
+> Chrome extension • JavaScript (MV3) • Privacy-first • 25/25 Tests Passing
 
-Compresses prompts in-browser before they hit the API, cutting token use by 40-65% across ChatGPT, Claude, and Gemini. Runs entirely client-side and leaves code blocks untouched.
+Compresses prompts in-browser before they hit the API, cutting token use by 40-65% across ChatGPT, Claude, and Gemini. Runs entirely client-side with pure regex patterns, zero external dependencies, and keeps code blocks intact.
 
 📖 [Architecture & technical design](https://github.com/sebin-gg/brevity-prompt/blob/main/ARCHITECTURE.md)
 
-#### [slowlang](https://github.com/sebin-gg/slowlang)
-> Toy language & runtime • Python • AST & telemetry
+#### [Aegis](https://github.com/sebin-gg/Aegis)
+> Security dashboard • Next.js 15 • React 19 • TypeScript • Local Ollama AI
 
-A programming language and IDE that throttles execution when you type too fast. Comes with sarcastic error handling and dynamic ASCII rage feedback.
+Real-time cyber threat monitoring and analysis dashboard. Features streaming terminal logs, automated attack simulation, iptables mitigation commands, and optional local AI threat evaluation via Ollama.
+
+#### [Event Tracker](https://github.com/sebin-gg/Event-Tracker)
+> Full-stack event platform • FastAPI • React • Tailwind CSS • Live on GitHub Pages
+
+Decoupled event management platform with Pydantic schema validation, search indexing, and SQLite persistence. Deployed live with responsive dark/light theme and local storage demo fallback.
+
+🌐 [Live Demo](https://sebin-gg.github.io/Event-Tracker/) | 📖 [System architecture & specs](https://github.com/sebin-gg/Event-Tracker/blob/main/ARCHITECTURE.md)
+
+#### [Kindred](https://github.com/sebin-gg/kindred)
+> Full-stack social platform • Express 5 • React 19 • MongoDB • JWT Auth
+
+Community impact tracking platform for volunteers. Features 6 impact tracks, title achievement system, privacy-controlled member directory, rate-limited REST API, and bcrypt authentication.
+
+#### [slowlang](https://github.com/sebin-gg/slowlang)
+> Language & runtime • Python • Tkinter IDE • Pytest Suite
+
+A satirical programming language and IDE that enforces mindful typing. Throttles execution and triggers dynamic ASCII turtle rage and poetic haiku feedback when you type too fast.
 
 📖 [Runtime architecture & state machine](https://github.com/sebin-gg/slowlang/blob/main/ARCHITECTURE.md)
 
-#### [Event Tracker](https://github.com/sebin-gg/Event-Tracker)
-> Full-stack event platform • FastAPI • React • Tailwind CSS
+#### [ShyUI](https://github.com/sebin-gg/shyui)
+> UI component library • C# • .NET • Windows Forms
 
-Event management and analytics with Pydantic schema validation, search indexing, and SQLite persistence. Built as a FOCES volunteer project.
-
-📖 [System architecture & specs](https://github.com/sebin-gg/Event-Tracker/blob/main/ARCHITECTURE.md)
+Modern, lightweight Windows Forms UI component library with sleek components, smooth gradients, and custom animations for desktop applications.
 
 <hr/>
 
