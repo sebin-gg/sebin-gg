@@ -66,6 +66,21 @@ Modern, lightweight Windows Forms UI component library with sleek components, sm
 ### 🌐 Connect
 
 - [Portfolio](https://sebin-gg.vercel.app)
-- [LinkedIn](https://linkedin.com/in/sebin-gg)
-- [X](https://twitter.com/M13568Sebin)
+- [Linktree](https://linktr.ee/sebin-gg) — everything in one place
 - [GitHub](https://github.com/sebin-gg)
+- [LinkedIn](https://linkedin.com/in/sebin-gg)
+- [X](https://x.com/Sebinmgg)
+- [Instagram](https://www.instagram.com/sebin5009)
+- [Threads](https://www.threads.net/@sebin5009)
+- [DEV](https://dev.to/sebin_mathew_33808dbc3817)
+- [Hashnode](https://hashnode.com/@sebin-gg)
+- [Medium](https://medium.com/@sebinmathew543)
+- [Stack Overflow](https://stackoverflow.com/users/27457042/sebinmathew)
+- [Reddit](https://www.reddit.com/user/banned_accounts)
+- [Product Hunt](https://www.producthunt.com/@sebin_gg)
+- [LeetCode](https://leetcode.com/u/sebin_mathew)
+- [Kaggle](https://www.kaggle.com/sebinmathew1)
+- [HackerRank](https://www.hackerrank.com/profile/sebinmathew543)
+- [HackerEarth](https://www.hackerearth.com/@sebinmathew543)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/profile/sebinmatxya6)
+- [μLearn](https://app.mulearn.org/profile/sebinmathew-2@mulearn)
