@@ -65,6 +65,7 @@ Modern, lightweight Windows Forms UI component library with sleek components, sm
 
 ### 🌐 Connect
 
+- [Portfolio](https://sebin-gg.vercel.app)
 - [LinkedIn](https://linkedin.com/in/sebin-gg)
 - [X](https://twitter.com/M13568Sebin)
 - [GitHub](https://github.com/sebin-gg)
