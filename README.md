@@ -94,4 +94,12 @@ Modern, lightweight Windows Forms UI component library with sleek components, sm
 - [HackerEarth](https://www.hackerearth.com/@sebinmathew543)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/profile/sebinmatxya6)
 - [μLearn](https://app.mulearn.org/profile/sebinmathew-2@mulearn)
+- [Devpost](https://devpost.com/sebinmathew543)
+- [CodeChef](https://www.codechef.com/users/sebin_mathew)
+- [Unstop](https://unstop.com/u/sebinmat8629)
+- [FOSS United](https://fossunited.org/u/sebin_mathew)
+- [Quora](https://www.quora.com/profile/Sebin-Mathew-74)
+- [WordPress](https://sebingg.wordpress.com)
+- [YouTube](https://www.youtube.com/@sebinmathew183)
+- [Wellfound](https://wellfound.com/u/sebin-mathew)
 
