@@ -4,9 +4,13 @@
 
 # Hi, I'm Sebin Mathew 👋
 
-I build Chrome extensions, full-stack apps, security tooling, and exam portals. Backend-leaning developer who keeps things private by default: no telemetry, modular design, and cryptographic verification where it matters.
+Student developer from **Kerala, India** — I build Chrome extensions, full-stack apps, security tooling, and exam portals. Backend-leaning developer who keeps things private by default: no telemetry, modular design, and cryptographic verification where it matters.
 
-- 🎓 B.Tech in Computer Science & Engineering, College of Engineering Chengannur (CGPA 8.6)
+- 🎓 B.Tech student in Computer Science & Engineering, College of Engineering Chengannur (CEC), Kerala — class of 2028 (CGPA 8.6)
+- 🏆 Winner — **TinkerHub Useless Projects 2.0** hackathon (SlowLang / TortoiseLang)
+- 🧭 **Project Coordinator, FOCES CEC** (Forum of Computer Engineering Students)
+- 🛡️ OWASP Kerala Bootcamp 2025 participant · CampusCrew Student Ambassador · NASA Space Apps nominee
+- 📍 Kottayam / Chengannur, Kerala · Portfolio: **[sebin-gg.vercel.app](https://sebin-gg.vercel.app)**
 - ⚡ Currently working on token optimization pipelines, API gateways, and system telemetry
 
 <hr/>
