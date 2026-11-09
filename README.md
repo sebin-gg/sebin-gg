@@ -67,6 +67,12 @@ Modern, lightweight Windows Forms UI component library with sleek components, sm
 
 <hr/>
 
+### ✍️ Writing
+
+- [I built a programming language that punishes you for typing too fast](https://sebin-gg.vercel.app/blog/slowlang-a-language-that-punishes-fast-typing) — the SlowLang story, also on [DEV](https://dev.to/sebin_mathew_33808dbc3817/i-built-a-programming-language-that-punishes-you-for-typing-too-fast-4fj4), [Hashnode](https://sebin-gg.hashnode.dev/i-built-a-programming-language-that-punishes-you-for-typing-fast), [Medium](https://medium.com/@sebinmathew543) and [WordPress](https://sebingg.wordpress.com)
+
+<hr/>
+
 ### 🌐 Connect
 
 - [Portfolio](https://sebin-gg.vercel.app)
@@ -88,3 +94,4 @@ Modern, lightweight Windows Forms UI component library with sleek components, sm
 - [HackerEarth](https://www.hackerearth.com/@sebinmathew543)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/profile/sebinmatxya6)
 - [μLearn](https://app.mulearn.org/profile/sebinmathew-2@mulearn)
+
